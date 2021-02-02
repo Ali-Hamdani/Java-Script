@@ -1,0 +1,6 @@
+var Name=("Hafiz Sayyed Ali Hamdani")
+var age=("29 years old")
+var profession=("Certified Block Chain Business Foundation Developer")
+alert(Name)
+alert(age)
+alert(profession)
